@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🏫 I'm a highschool student
+🏫 I'm a highschool student<br>
 🌱 I’m currently learning machine learning
 
 
